@@ -13,7 +13,7 @@ vendor's work. Every competitor value cites the vendor page it came from, so eac
 
 ## Pricing dataset
 
-Checked **2026-10-02**. One row per platform:
+Checked **2026-10-27**. One row per platform:
 
 | Column | Meaning |
 |---|---|
