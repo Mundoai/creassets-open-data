@@ -3,7 +3,7 @@ message: "If you use this data, please cite it as below."
 title: "Real estate syndication software pricing dataset"
 type: dataset
 authors:
-  - name: "CREAssets"
+  - name: "CRE Assets"
     website: "https://creassets.com"
 date-released: "2026-10-02"
 license: CC-BY-4.0

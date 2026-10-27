@@ -1,14 +1,14 @@
-# CREAssets open data
+# CRE Assets open data: syndication software pricing and a waterfall model
 
 Free data and models for commercial real estate syndication, published by
-[CREAssets](https://creassets.com) under [CC BY 4.0](LICENSE).
+[CRE Assets](https://creassets.com) under [CC BY 4.0](LICENSE).
 
 | File | What it is | Page with context |
 |---|---|---|
 | [`syndication-software-pricing.csv`](syndication-software-pricing.csv) | What 9 sponsor/syndication software platforms publish about their prices, contract terms and migration fees, sourced row by row | [creassets.com/resources/syndication-software-pricing](https://creassets.com/resources/syndication-software-pricing) |
 | [`creassets-real-estate-waterfall-model.xlsx`](creassets-real-estate-waterfall-model.xlsx) | A three-tier IRR-hurdle distribution waterfall in Excel with live formulas (return of capital and pref, then two GP promote tiers) | [creassets.com/tools/real-estate-waterfall-model-excel](https://creassets.com/tools/real-estate-waterfall-model-excel) |
 
-**Disclosure:** CREAssets sells software in the category this pricing dataset covers, so treat it as a
+**Disclosure:** CRE Assets sells software in the category this pricing dataset covers, so treat it as a
 vendor's work. Every competitor value cites the vendor page it came from, so each row can be checked.
 
 ## Pricing dataset
@@ -47,7 +47,7 @@ It is for illustration and education, not investment, legal or tax advice.
 
 ## How to cite
 
-> CREAssets, "Real estate syndication software pricing dataset", checked October 2, 2026.
+> CRE Assets (creassets.com), "Real estate syndication software pricing dataset", checked October 2, 2026.
 > https://creassets.com/resources/syndication-software-pricing
 
 GitHub's "Cite this repository" button reads [`CITATION.cff`](CITATION.cff).
